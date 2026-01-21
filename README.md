@@ -85,5 +85,4 @@ Or connect your GitHub repository to Vercel for automatic deployments.
 
 
 
-👨‍💻 Author Amine Ould Medjeber Full-Stack Developer 
-[ouldmedjeberamine@gmail.com] 🌐 [www.linkedin.com/in/amine-medjeber]
+=
